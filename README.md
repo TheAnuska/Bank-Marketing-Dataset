@@ -1,4 +1,4 @@
-# Bank-Marketing-Dataset
+# Bank Marketing Dataset - classification methods
 
 
 Find the best strategies to improve for the next marketing campaign. How can the financial institution have greater effectiveness for future marketing campaigns? To answer this, we have to analyse the bank's last marketing campaign and identify the patterns that will help us find conclusions to develop future strategies.
