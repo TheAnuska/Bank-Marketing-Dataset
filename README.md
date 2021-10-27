@@ -1,7 +1,7 @@
 # Bank-Marketing-Dataset
 
 
-Find the best strategies to improve for the next marketing campaign. How can the financial institution have a greater effectiveness for future marketing campaigns? In order to answer this, we have to analyze the last marketing campaign the bank performed and identify the patterns that will help us find conclusions in order to develop future strategies.
+Find the best strategies to improve for the next marketing campaign. How can the financial institution have greater effectiveness for future marketing campaigns? To answer this, we have to analyse the bank's last marketing campaign and identify the patterns that will help us find conclusions to develop future strategies.
 
 
 Feature/column description
@@ -30,5 +30,18 @@ Feature/column description
 
 4. Output variable (desired target):
 * deposit - has the client subscribed a term deposit? (binary: 'yes','no')
+
+
+
+RESULTS
+
+![](https://github.com/TheAnuska/Bank-Marketing-Dataset/blob/master/Figures/corr_matrix.png)
+
+Figure 1 Correlation matrix. I took the all data set, where I changed the categorical features into numerical to see specific correlations that should be included or excluded.  
+
+![](https://github.com/TheAnuska/Bank-Marketing-Dataset/blob/master/Figures/ML_models.png)
+
+Figure 2 The results of using different machine learning techniques.  
+
 
 
