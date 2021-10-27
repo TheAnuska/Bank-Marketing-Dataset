@@ -35,11 +35,11 @@ Feature/column description
 
 RESULTS
 
-[](https://github.com/TheAnuska/Bank-Marketing-Dataset/blob/master/Figures/corr_matrix.png)
+![](https://github.com/TheAnuska/Bank-Marketing-Dataset/blob/master/Figures/corr_matrix.png)
 
 Figure 1 Correlation matrix. I took the all data set, where I changed the categorical features into numerical to see specific correlations that should be included or excluded.  
 
-[](https://github.com/TheAnuska/Bank-Marketing-Dataset/blob/master/Figures/ML_models.png)
+![](https://github.com/TheAnuska/Bank-Marketing-Dataset/blob/master/Figures/ML_models.png)
 
 Figure 2 The results of using different machine learning techniques.  
 
